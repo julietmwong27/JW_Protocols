@@ -24,7 +24,7 @@ Contents
     -  autoclave indicator tape 
     - 	aluminum foil
     - 	secondary containment if autoclaving liquids
-    -  heat-resistant cloves
+    -  heat-resistant gloves
     - 	Systec DX 150 Bench-top autoclave [(see brief user manual)](https://github.com/julietmwong27/JW_Protocols/blob/master/SOM_Systec_DX%2CDE_Series_Rev_1_6_EN.pdf)
 
 2. <a name="Protocol"></a> **Protocol**
@@ -35,7 +35,7 @@ Contents
 		* For closed containers, always make sure that the cap or lid is losely screwed on. **Never autoclave a container that is sealed closed.** Place a piece of autoclave tape running from the lid to the top part of the container (so that the tape will need to be torn when the container is opened for the first time after autoclaving). [example, before and after](https://github.com/julietmwong27/JW_Protocols/blob/master/Autoclave_images/autoclave_bottle_example.JPG)
 		* For open containers, place a piece of aluminum foil over the opening (e.g., the top of a beaker or flask). Place a piece of autoclave tape on the foil.
 		* For autoclavable pipet tip boxes, place a piece of autoclave tape running from the lid to the side of the box (so that the tape will need to be cut to open the box for the first time after autoclaving)
-		* For autoclaving small items (e.g., microcentrifuge tubes), place them in an empty beaker or other open autoclavable container, cover the opening with aluminum foil, and place a piece of autoclave tape on the foil. [example before and after](https://github.com/julietmwong27/JW_Protocols/blob/master/Autoclave_images/autoclave_tubes_example.JPG)
+		* For autoclaving small items (e.g., microcentrifuge tubes), place them in an empty beaker or other open autoclavable container, cover the opening with aluminum foil, and place a piece of autoclave tape on the foil. [example, before and after](https://github.com/julietmwong27/JW_Protocols/blob/master/Autoclave_images/autoclave_tubes_example.JPG)
 	* Preparing materials to autoclave (liquid)
 		* Verify that the liquid can autoclaved. Seawater is okay for the MSB autoclave (although that is not always true for all autoclaves). Acids, bases, organic solvents, chlorides, sulphates, and bleach are generally **NOT** autoclavable.
 		* Only use containers that are properly vented (e.g., the cap is loosely screwed on). 
