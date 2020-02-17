@@ -12,8 +12,8 @@ projects: Hofmann Lab (UCSB), EELab (FIU)
 Original: 20200217
 Last Revised: 20200217 
 
-This protocol is modified from the manufacturer's instructions [(TRIzol Reagent, Invitrogen)](http://tools.thermofisher.com/content/sfs/manuals/trizol_reagent.pdf).
-It has been optimized for total RNA extractions from sea urchin eggs, embryos, and larvae. This has specifically been tested on ~5000 pooled eggs, embryos, or larvae per sample for purple urchins (*Strongylocentrotus purpuratus*) and red urchins (*Mesocentrotus franciscanus*)****
+This protocol has been modified following the manufacturer's instructions for use of [TRIzol Reagent (Invitrogen)](http://tools.thermofisher.com/content/sfs/manuals/trizol_reagent.pdf).
+It has been optimized for total RNA extractions from sea urchin eggs, embryos, and larvae. This has specifically been tested on ~5000 pooled eggs, embryos, or larvae per sample for purple urchins (*Strongylocentrotus purpuratus*) and red urchins (*Mesocentrotus franciscanus*).
 
 Contents  
 - [**Materials**](#Materials)    
