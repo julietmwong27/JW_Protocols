@@ -25,7 +25,7 @@ Contents
     - 	aluminum foil
     - 	secondary containment if autoclaving liquids
     -  heat-resistant cloves
-    - 	Systec DX 150 Bench-top autoclave ([see brief operating manual](file:///Users/julietmwong/Downloads/SOM_Systec_DX,DE_Series_Rev_1_6_EN.html))
+    - 	Systec DX 150 Bench-top autoclave [](https://github.com/julietmwong27/JW_Protocols/blob/master/SOM_Systec_DX%2CDE_Series_Rev_1_6_EN.pdf)
 
 2. <a name="Protocol"></a> **Protocol**
 	* **Verify that all materials you are preparing are autoclavable!** If you are unsure, check the product numbers and look up the specifications.
